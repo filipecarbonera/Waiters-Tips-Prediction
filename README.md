@@ -12,4 +12,4 @@ Also I did some data transformation to fit the ML model.
 
 In the end I placed a code with an example of numbers that can be changed in order to predict the tip based on those conditions.
 
-[My contacts](https://linktr.ee/filipecarbonera)
+[My contacts.](https://linktr.ee/filipecarbonera)
