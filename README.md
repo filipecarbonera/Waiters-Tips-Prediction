@@ -4,6 +4,8 @@
 
 This notebook is based on a Kaggle Dataset present at [this link](https://www.kaggle.com/datasets/aminizahra/tips-dataset).
 
+Acess the notebook [here](https://github.com/filipecarbonera/Waiters-Tips-Prediction/blob/main/Waiter's_Tips_Prediction.ipynb).
+
 With this project I had the opportunity to explore the dataset with a different plotting lib that I was not used to: [Plotly](https://plotly.com/python/).
 
 Also I did some data transformation to fit the ML model.
